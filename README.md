@@ -38,6 +38,7 @@ hello-world-argocd-prod/
 
 1. **Run Argo CD cluster setup script**:
 ```bash
+   chmod 744 setup-argocd-cluster.sh
    ./setup-argocd-cluster.sh
    ```
    
@@ -66,6 +67,7 @@ hello-world-argocd-prod/
 
 4. **Run the setup-argocd.sh script**:
    ```bash
+   chmod 744 setup-argocd.sh
    ./setup-argocd.sh
    ```
 
