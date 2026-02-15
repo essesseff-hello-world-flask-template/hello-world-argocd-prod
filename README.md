@@ -2,7 +2,7 @@
 
 This repository contains the Argo CD Application manifest for the **PROD** environment of the hello-world essesseff™ app.  
 
-It is ***not necessary*** to be an essesseff™ subscriber in order to make use of the standardized pattern and automation offered in this and corresponding code and config repositories for configuring and managing your Go application to follow said standardized pattern of development, build, deployment and promotion through DEV -> QA -> STAGING -> PROD environments, although it should not surprise you that it will be much easier for essesseff™ subscribers to do so.
+It is ***not necessary*** to be an essesseff™ subscriber in order to make use of the standardized pattern and automation offered in this and corresponding code and config repositories for configuring and managing your Flask application to follow said standardized pattern of development, build, deployment and promotion through DEV -> QA -> STAGING -> PROD environments, although it should not surprise you that it will be much easier for essesseff™ subscribers to do so.
 
 *Please Note:*
 
